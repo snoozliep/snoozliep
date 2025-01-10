@@ -2,7 +2,7 @@
 
 ###
 
-<p align="right">Technology / Experiences</p>
+<p align="left">Technology / Experiences</p>
 
 ###
 
@@ -111,7 +111,7 @@
 
 ###
 
-<p align="center">Statistics</p>
+<p align="left">Statistics</p>
 
 ###
 
