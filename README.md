@@ -112,9 +112,7 @@
 ###
 
 <p align="left">Statistics</p>
-
 ###
-
 <br clear="both">
 
 <div align="left">
