@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Arabelle and I'm a ME Student, from  the Philippines.</h2>
+<h2 align="left">Hi 👋! My name is Arabelle and I am an ME Student, from  the Philippines.</h2>
 
 ###
 
@@ -126,8 +126,4 @@
 
 <p align="left">Contributions</p>
 
-###
 
-<img src="https://raw.githubusercontent.com/snoozliep/snoozliep/output/snake.svg" alt="Snake animation" />
-
-###
