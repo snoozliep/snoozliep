@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Arabelle and I am an ME Student, from  the Philippines.</h2>
+<h2 align="left">Hi 👋! My name is Arabelle and I'm a ME Student, from  the Philippines.</h2>
 
 ###
 
-<p align="left">Technology / Experiences</p>
+<h3 align="left">Technology / Experiences</h3>
 
 ###
 
@@ -94,7 +94,15 @@
 
 ###
 
-<p align="left">Socials & Portfolio</p>
+<h3 align="left">About</h3>
+
+###
+
+<p align="left">I am an enthusiastic student actively exploring and developing various digital skills across different areas: learning version control and coding basics through GitHub while experimenting with website creation using Carrd.io and Wix; developing writing abilities through creative storytelling, feature writing, and content creation; gaining experience with productivity tools like Notion for organization, Google Workspace for collaboration, and Microsoft Outlook for communication; and exploring visual creativity through graphics design, including creating social media content and experimenting with brand design elements.</p>
+
+###
+
+<h3 align="left">Socials & Portfolio</h3>
 
 ###
 
@@ -111,17 +119,15 @@
 
 ###
 
-<p align="left">Statistics</p>
+<h3 align="left">Statistics</h3>
+
 ###
+
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=snoozliep&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snoozliep&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-<p align="left">Contributions</p>
-
-
