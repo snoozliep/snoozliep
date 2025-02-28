@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Arabelle and I'm am a ME Student, from  the Philippines.</h2>
+<h2 align="left">Hi 👋! ME Student from  the Philippines.</h2>
 
 ###
 
