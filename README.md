@@ -98,7 +98,7 @@
 
 ###
 
-<p align="left">I am an enthusiastic student actively exploring and developing various digital skills across different areas: learning version control and coding basics through GitHub while experimenting with website creation using Carrd.io and Wix; developing writing abilities through creative storytelling, feature writing, and content creation; gaining experience with productivity tools like Notion for organization, Google Workspace for collaboration, and Microsoft Outlook for communication; and exploring visual creativity through graphics design, including creating social media content and experimenting with brand design elements.</p>
+<p align="left">I am a student actively exploring and developing various digital skills across different areas: learning version control, and coding basics through GitHub while experimenting with website creation using Carrd.io and Wix; developing writing abilities through creative storytelling, feature writing, and content creation; gaining experience with productivity tools like Notion for organization, Google Workspace for collaboration, and Microsoft Outlook for communication; and exploring visual creativity through graphics design, including creating social media content and experimenting with brand design elements.</p>
 
 ###
 
