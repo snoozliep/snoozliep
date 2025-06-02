@@ -1,9 +1,7 @@
 <h2 align="left">Hi 👋! ME Student from  the Philippines.</h2>
 
 ###
-
 <h3 align="left">Technology / Experiences</h3>
-
 ###
 
 <div align="left">
